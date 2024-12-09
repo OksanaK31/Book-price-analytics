@@ -3,7 +3,9 @@
 Project for web scraping book data from an online book store and analyzing price distribution.
 
 Source:
+
 'Книжкова Хата' book store (https://knygy.com.ua) - scraped with BeautifulSoup
+
 'КМБУКС' book store (https://kmbooks.com.ua/) - scraped with API requests
 
 
